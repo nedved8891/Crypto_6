@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 459810b2bdc973844ab6b97a0e6f2fa6, type: 3}
+  m_Name: 10
+  m_EditorClassIdentifier: 
+  number: 10
+  text: Which European bank was among the first to start working with cryptocurrencies?
+  answers:
+  - isTrue: 0
+    text: UBS
+  - isTrue: 1
+    text: Deutsche Bank
+  - isTrue: 0
+    text: Banco Santander
+  - isTrue: 0
+    text: ING

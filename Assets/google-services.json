@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989905622799",
+    "project_id": "fastfooomd",
+    "storage_bucket": "fastfooomd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989905622799:android:d6baec985f988db4d7907a",
+        "android_client_info": {
+          "package_name": "com.fast.fooomd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpUWMuh5yOnRcG4_-DBEw-XTicbc914Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

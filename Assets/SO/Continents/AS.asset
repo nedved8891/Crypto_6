@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca13d42f3c6cb7f4e935eded4048c39d, type: 3}
+  m_Name: AS
+  m_EditorClassIdentifier: 
+  continentName: 1
+  continentSprite: {fileID: 21300000, guid: 65cf1c3670690eb43bd278eba9a6bdbd, type: 3}
+  difficulties:
+  - difficulty: 0
+    levels:
+    - numberName: 1
+      questions:
+      - {fileID: 11400000, guid: 3e91f36fd3acd0b40ac90f65babb262f, type: 2}
+    - numberName: 2
+      questions:
+      - {fileID: 11400000, guid: d70b0bc1e115ac14ea2cafff7092b5ba, type: 2}
+    - numberName: 3
+      questions:
+      - {fileID: 11400000, guid: 40757051f83948246bcc505e4c398883, type: 2}
+    - numberName: 4
+      questions:
+      - {fileID: 11400000, guid: 5744ec3cc557eee43af68fa7e2bb6e4d, type: 2}
+    - numberName: 5
+      questions:
+      - {fileID: 11400000, guid: a2cc3de03dbf8304dbe842a540ab382c, type: 2}
+    - numberName: 6
+      questions:
+      - {fileID: 11400000, guid: 725ea62a9054b2041b66c73e01cb2f45, type: 2}
+    - numberName: 7
+      questions:
+      - {fileID: 11400000, guid: 09f932ac005cfb64b950f373724bea88, type: 2}
+    - numberName: 8
+      questions:
+      - {fileID: 11400000, guid: cc7573f6682ff274497b30e9142305b9, type: 2}
+    - numberName: 9
+      questions:
+      - {fileID: 11400000, guid: 9fac9d02d6af4ae4ca2041efd56195ec, type: 2}
+    - numberName: 10
+      questions:
+      - {fileID: 11400000, guid: 66cd7971bc53d0d4b9b63a9c507ab4ba, type: 2}
+    - numberName: 11
+      questions:
+      - {fileID: 11400000, guid: 6dcb7410b917a284da48a9aa3fae7edd, type: 2}
+    - numberName: 12
+      questions:
+      - {fileID: 11400000, guid: 382dfb82bc2fbfc43ab768836ee3bb69, type: 2}
+  - difficulty: 1
+    levels:
+    - numberName: 1
+      questions:
+      - {fileID: 11400000, guid: 3e91f36fd3acd0b40ac90f65babb262f, type: 2}
+    - numberName: 2
+      questions:
+      - {fileID: 11400000, guid: d70b0bc1e115ac14ea2cafff7092b5ba, type: 2}
+    - numberName: 3
+      questions:
+      - {fileID: 11400000, guid: 40757051f83948246bcc505e4c398883, type: 2}
+    - numberName: 4
+      questions:
+      - {fileID: 11400000, guid: 5744ec3cc557eee43af68fa7e2bb6e4d, type: 2}
+    - numberName: 5
+      questions:
+      - {fileID: 11400000, guid: a2cc3de03dbf8304dbe842a540ab382c, type: 2}
+    - numberName: 6
+      questions:
+      - {fileID: 11400000, guid: 725ea62a9054b2041b66c73e01cb2f45, type: 2}
+    - numberName: 7
+      questions:
+      - {fileID: 11400000, guid: 09f932ac005cfb64b950f373724bea88, type: 2}
+    - numberName: 8
+      questions:
+      - {fileID: 11400000, guid: cc7573f6682ff274497b30e9142305b9, type: 2}
+    - numberName: 9
+      questions:
+      - {fileID: 11400000, guid: 9fac9d02d6af4ae4ca2041efd56195ec, type: 2}
+    - numberName: 10
+      questions:
+      - {fileID: 11400000, guid: 66cd7971bc53d0d4b9b63a9c507ab4ba, type: 2}
+    - numberName: 11
+      questions:
+      - {fileID: 11400000, guid: 6dcb7410b917a284da48a9aa3fae7edd, type: 2}
+    - numberName: 12
+      questions:
+      - {fileID: 11400000, guid: 382dfb82bc2fbfc43ab768836ee3bb69, type: 2}
+  - difficulty: 2
+    levels:
+    - numberName: 1
+      questions:
+      - {fileID: 11400000, guid: 3e91f36fd3acd0b40ac90f65babb262f, type: 2}
+    - numberName: 2
+      questions:
+      - {fileID: 11400000, guid: d70b0bc1e115ac14ea2cafff7092b5ba, type: 2}
+    - numberName: 3
+      questions:
+      - {fileID: 11400000, guid: 40757051f83948246bcc505e4c398883, type: 2}
+    - numberName: 4
+      questions:
+      - {fileID: 11400000, guid: 5744ec3cc557eee43af68fa7e2bb6e4d, type: 2}
+    - numberName: 5
+      questions:
+      - {fileID: 11400000, guid: a2cc3de03dbf8304dbe842a540ab382c, type: 2}
+    - numberName: 6
+      questions:
+      - {fileID: 11400000, guid: 725ea62a9054b2041b66c73e01cb2f45, type: 2}
+    - numberName: 7
+      questions:
+      - {fileID: 11400000, guid: 09f932ac005cfb64b950f373724bea88, type: 2}
+    - numberName: 8
+      questions:
+      - {fileID: 11400000, guid: cc7573f6682ff274497b30e9142305b9, type: 2}
+    - numberName: 9
+      questions:
+      - {fileID: 11400000, guid: 9fac9d02d6af4ae4ca2041efd56195ec, type: 2}
+    - numberName: 10
+      questions:
+      - {fileID: 11400000, guid: 66cd7971bc53d0d4b9b63a9c507ab4ba, type: 2}
+    - numberName: 11
+      questions:
+      - {fileID: 11400000, guid: 6dcb7410b917a284da48a9aa3fae7edd, type: 2}
+    - numberName: 12
+      questions:
+      - {fileID: 11400000, guid: 382dfb82bc2fbfc43ab768836ee3bb69, type: 2}

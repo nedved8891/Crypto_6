@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Octopus/SceneLoaderCore/Example/Scenes/InitScene.unity
+    guid: e0f478970481158438860e5f12e06a4c
+  - enabled: 1
+    path: Assets/Octopus/SceneLoaderCore/Example/Scenes/Preloader.unity
+    guid: 884e48c4e9ec07d4887d3151a7d3e46a
+  - enabled: 1
+    path: Assets/Octopus/SceneLoaderCore/Example/Scenes/Webview.unity
+    guid: 004c45169b284ed4c96a82c45e971f63
+  - enabled: 1
+    path: Assets/Scenes/InitGameScene.unity
+    guid: 45e2615a90ff14e4f8dadbd66dcf2040
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: b6982c22a7306e748ab540fbafbc30a2
+  - enabled: 1
+    path: Assets/Scenes/SelectLevelScene.unity
+    guid: 0defaeb67b4d9e1459d9ef4c3ab79eab
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 836ffe600a9f03b49a7eba6e5946fd43
+  - enabled: 1
+    path: Assets/Scenes/SettingsScene.unity
+    guid: 1193d5354fab24f458d04f148083d219
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
